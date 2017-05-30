@@ -1,0 +1,22 @@
+{
+  "name": "todiyfor",
+  "homepage": "https://github.com/30Apps30Days/23-todiyfor",
+  "authors": [
+    "The Metaist <metaist@metaist.com>"
+  ],
+  "description": "Easy, timeless and cheap DIYs!",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "^1.3.0"
+  }
+}
